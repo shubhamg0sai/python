@@ -38,6 +38,16 @@ All in one courses available
 
 ![example 15](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex15.py)
 
+![example 16](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex15.py)
+
+![example 17](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex15.py)
+
+![example 18](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex15.py)
+
+![example 19](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex15.py)
+
+![example 20](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex15.py)
+
 # C
 
 # C++
