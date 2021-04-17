@@ -6,9 +6,7 @@
 1. ![click here learning book](https://github.com/ShuBhamg0sain/python/blob/main/Python/Learning_Python.pdf)
 1. ![click here full course book](https://github.com/ShuBhamg0sain/python/blob/main/Python/PythonNotesForProfessionals.pdf)
 
-![example 1](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex1.py)
-
-![example 2](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex2.py)
+![example 1](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex1.py)![example 2](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex2.py)
 
 ![example 3](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex3.py)
 
