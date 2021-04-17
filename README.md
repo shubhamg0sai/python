@@ -10,33 +10,33 @@ All in one courses available
 
 ![example 1](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex1.py)
 
-![example 2](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex1.py)
+![example 2](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex2.py)
 
-![example 3](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex1.py)
+![example 3](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex3.py)
 
-![example 4](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex1.py)
+![example 4](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex4.py)
 
-![example 5](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex1.py)
+![example 5](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex5.py)
 
-![example 6](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex1.py)
+![example 6](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex6.py)
 
-![example 7](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex1.py)
+![example 7](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex7.py)
 
-![example 8](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex1.py)
+![example 8](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex8.py)
 
-![example 9](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex1.py)
+![example 9](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex9.py)
 
-![example 10](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex1.py)
+![example 10](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex10.py)
 
-![example 11](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex1.py)
+![example 11](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex11.py)
 
-![example 12](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex1.py)
+![example 12](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex12.py)
 
-![example 13](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex1.py)
+![example 13](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex13.py)
 
-![example 14](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex1.py)
+![example 14](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex14.py)
 
-![example 15](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex1.py)
+![example 15](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex15.py)
 
 #
 
