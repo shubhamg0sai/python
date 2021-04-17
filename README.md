@@ -38,7 +38,7 @@ All in one courses available
 
 ![example 15](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex15.py)
 
-#
+# C
 
 # C++
 
