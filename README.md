@@ -10,51 +10,19 @@
 
 ![example 4](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex4.py)  ![example 5](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex5.py)  ![example 6](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex6.py)
 
-![example 7](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex7.py)
+![example 7](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex7.py)  ![example 8](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex8.py)  ![example 9](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex9.py)
 
-![example 8](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex8.py)
+![example 10](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex10.py) ![example 11](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex11.py)  ![example 12](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex12.py)
 
-![example 9](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex9.py)
+![example 13](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex13.py)  ![example 14](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex14.py)  ![example 15](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex15.py)
 
-![example 10](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex10.py)
+![example 16](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex16.py)  ![example 17](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex17.py)  ![example 18](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex18.py)
 
-![example 11](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex11.py)
+![example 19](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex19.py)  ![example 20](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex20.py)  ![example 21](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex21.py)
 
-![example 12](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex12.py)
+![example 22](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex22.py)  ![example 23](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex23.py)  ![example 24](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex24.py)
 
-![example 13](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex13.py)
+![example 25](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex25.py)  ![example 26](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex26.py)  ![example 27](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex27.py)
 
-![example 14](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex14.py)
-
-![example 15](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex15.py)
-
-![example 16](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex16.py)
-
-![example 17](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex17.py)
-
-![example 18](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex18.py)
-
-![example 19](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex19.py)
-
-![example 20](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex20.py)
-
-![example 21](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex21.py)
-
-![example 22](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex22.py)
-
-![example 23](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex23.py)
-
-![example 24](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex24.py)
-
-![example 25](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex25.py)
-
-![example 26](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex26.py)
-
-![example 27](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex27.py)
-
-![example 28](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex28.py)
-
-![example 29](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex29.py)
-
-![example 30](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex30.py)
+![example 28](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex28.py)  ![example 29](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex29.py)  ![example 30](https://raw.githubusercontent.com/ShuBhamg0sain/python/main/Python/Ex30.py)
 
