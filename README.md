@@ -7,6 +7,7 @@ All in one courses available
 1. ![click here practical intro](https://github.com/ShuBhamg0sain/course/blob/main/Python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)
 1. ![click here learning book](https://github.com/ShuBhamg0sain/course/blob/main/Python/Learning_Python.pdf)
 1. ![click here full course book](https://github.com/ShuBhamg0sain/course/blob/main/Python/PythonNotesForProfessionals.pdf)
+
 ![example 1](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex1.py)
 
 ![example 2](https://raw.githubusercontent.com/ShuBhamg0sain/course/main/Python/Ex1.py)
